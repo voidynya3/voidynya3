@@ -4,12 +4,6 @@
   <img alt="yay, kitten ^w^" src="https://github.com/voidynya3/voidynya3/blob/main/splash.png?raw=true">
 </picture>
 
-# about me
->- 16 years old
->- nonbinary & pansexual
- 
- 
-
 # favourite things
 >- c & lua
 >- game development
